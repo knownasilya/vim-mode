@@ -1,6 +1,9 @@
 
 settings =
   config:
+    currentDirectoryAutomatically:
+      type: 'boolean'
+      default: false
     startInInsertMode:
       type: 'boolean'
       default: false
